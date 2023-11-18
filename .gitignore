@@ -1,0 +1,3 @@
+#ignore UAP and vscode conf
+UAP/
+.vscode/
